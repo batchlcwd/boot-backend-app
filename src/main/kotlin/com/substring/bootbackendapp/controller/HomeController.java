@@ -1,4 +1,4 @@
-package com.substring.bootbackendapp;
+package com.substring.bootbackendapp.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
